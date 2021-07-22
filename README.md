@@ -7,10 +7,12 @@ Take a look!
   * **2021. 3. 28.** 다운로드 수 200+
   * **2021. 3. 29.** 다운로드 수 400+
 
+<!--
 # 📎 Links
 * **[Tistory](https://solo5star.tistory.com)**
 * **[Baekjoon/solo5star](https://www.acmicpc.net/user/solo5star)**
 * **[solved.ac/solo5star](https://solved.ac/profile/solo5star)**
+-->
 
 <!--
 **solo5star/solo5star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

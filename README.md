@@ -1,5 +1,4 @@
-# 👊 Hi Guys
-Take a look!
+# 👊 Take a look!
 
 <!--
 # 🎈 History

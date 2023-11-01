@@ -9,7 +9,7 @@
 -->
 
 # 📎 Links
-* **[Tistory](https://solo5star.tistory.com)**
+* **[Blog](https://solo5star.dev)**
 * **[Baekjoon/solo5star](https://www.acmicpc.net/user/solo5star)**
 * **[solved.ac/solo5star](https://solved.ac/profile/solo5star)**
 
